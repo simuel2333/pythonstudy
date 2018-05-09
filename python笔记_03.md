@@ -1,6 +1,6 @@
 python 学习笔记(三)
 ================
-###用户输入与while循环
+### 用户输入与while循环
 * 用户输入
 input()
 input("Please input something: ")
@@ -14,13 +14,13 @@ while n < 6:
 * 使用break推出while循环
 * 在循环中使用continue
 
-###在while循环中处理列表和字典
+### 在while循环中处理列表和字典
 * 删除包含特定值的所有列表元素
 pets = ['dog', 'cat', 'dog', 'goldfish', 'cat', 'rabbit', 'cat']
 while 'cat' in pets:
 &emsp;pets.remove("cat")
 
-###函数
+### 函数
 * 定义函数
 def greet_user():
 &emsp;print("Hello!")

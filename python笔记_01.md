@@ -1,6 +1,6 @@
 python 学习笔记(一)
 ================
-###字符串相关
+### 字符串相关
 * 字符串函数
 title()
 upper()
@@ -16,7 +16,7 @@ str()：在拼接字符串时如果有数字要拼接，python不会隐示转换
 * python之禅
 import this
 
-###列表相关
+### 列表相关
 * 列表(数组)
 fruits = ['apple','orange','banana']：数组中的元素既可以是字符串也可以是数字。
 * 数组追加元素
@@ -43,7 +43,7 @@ len(fruits)
 * 列表负数序号
 fruits[-1]：倒数第一个列表元素，fruits[-2]：倒数第二个列表元素......
 
-###操作列表
+### 操作列表
 * 遍历整个列表
 for fruit in fruist:
 &emsp;print(fruit)

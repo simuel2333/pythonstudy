@@ -1,6 +1,6 @@
 python 学习笔记(二)
 ==================
-###元组
+### 元组
 * 定义
 不可变的列表
 * 定义元组
@@ -8,7 +8,7 @@ dimensions = (100,50)
 dimensions[0]
 dimensions[1]
 
-###if语句
+### if语句
 * 使用方法
 cars = ['audi','benz','bmw','honda']
 for car in cars:
@@ -28,7 +28,7 @@ age <= 10 or age >= 20
 list = []
 if list
 
-###字典
+### 字典
 * 字典形式
 类似与json
 alien = {'color': 'green', 'point': 5}
